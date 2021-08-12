@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tests/LED Test/LED Test.unity
     guid: 3b967f0d6a6e2764a8a21679fbe95fe8
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d4d29b5ce7bde4d4a869c22db84c846b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 389d41966fc6d3e4a96f8f4775abe7da, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 845bda77cf64ad54f9b5444333133c37, type: 2}
