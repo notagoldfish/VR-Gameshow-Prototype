@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ball
+  - Basketball_PointA
+  - Basketball_PointB
   layers:
   - Default
   - TransparentFX
